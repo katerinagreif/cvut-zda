@@ -10,7 +10,7 @@ Lhůta na odpověď úřadu na přihlášku na dávku je typicky 30 dní. Minist
 - podobné vyhodnocení bude potřeba opakovaně na další typ dávky a bude potřeba rychle.
 - je možné, že z dat zjitíme také jiné poznatky ohledně procesů 
 
-# Způsob práce:
+## Způsob práce:
 
 - Skupina mix 1 až 3+ ročníku
 - první mluví mladší kolegové potom starší
@@ -20,7 +20,7 @@ Lhůta na odpověď úřadu na přihlášku na dávku je typicky 30 dní. Minist
 Výstupy:
 - Power BI report dat a krátká prezentace na cvičení 2 - 3
 
-# Návodné otázky:
+## Návodné otázky:
 
 1. Co nám řekne první pohled na data?
 2. Jaká je struktura dat, co jksou to za data?

@@ -17,7 +17,7 @@ Lhůta na odpověď úřadu na přihlášku na dávku je typicky 30 dní. Minist
 - každý pracuje samostatně, ale pomáháme si
 - odpovědnost na každém z vás
 
-Výstupy:
+**Výstupy:**
 - Power BI report dat a krátká prezentace na cvičení 2 - 3
 
 ## Návodné otázky:
@@ -26,3 +26,20 @@ Výstupy:
 2. Jaká je struktura dat, co jksou to za data?
 3. Než se pustíme do podrobné analýzy, jaká úsklaí nás čekají.
 
+## První pohled na data:
+
+1. děs a hrůza
+2. alespoň nějaká struktura
+3. zdá se že fyzicky podaná žádost je rychlejší než jinak
+4. lidský element
+5. nekonzistentní data
+6. variabilita mezi lidmi a lokacemi
+7. ruzné přístup k vyplnění
+
+
+## Úkol: Na další týden připravit tabulku pro Power BI
+
+Sloupce: Proces	Podproces	Aktivity	PodAktivity	Zdroj	Kraj	Cas	Typ podani	Role	Nazev procesu	Typ zadosti
+
+
+Bonus: tabulka pro poznámky

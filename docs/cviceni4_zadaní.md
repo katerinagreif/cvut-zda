@@ -60,3 +60,7 @@ Stáhnout - https://www.postgresqltutorial.com/postgresql-getting-started/postgr
 
 testovací MS SQL adventure works databáze
 V Azure se dá vytočit v subscripci, případně si napište o přístupy mě.
+
+# Když to nejde nebo nemám čas
+
+napište email a zařídím za vás přístupy do AdventureWroks 2014 od MS.

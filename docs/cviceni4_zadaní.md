@@ -146,6 +146,8 @@ Každý řádek v tabulce `rental_fact` reprezentuje jednu transakci pronájmu a
 - `date_id:` Tento sloupec je cizím klíčem odkazujícím na sloupec date_id v tabulce date_dim. Identifikuje rozměr data spojený s daným řádkem v tabulce.
 - `customer_id:` Tento sloupec je cizím klíčem odkazujícím na sloupec customer_id v tabulce customer_dim. Identifikuje rozměr zákazníka spojený s daným řádkem v tabulce.
 - `inventory_id:` Tento sloupec je cizím klíčem odkazujícím na sloupec inventory_id v tabulce inventory. Identifikuje DVD inventář spojený s daným řádkem v tabulce.
+- `rental_count:` Tento sloupec zobrazuje počet zapůjčených filmů.
+- `rental_revenue:` Tento sloupec  celkový příjem z pronájmu filmů.
 - `late_fee_revenue:` Tento sloupec reprezentuje příjmy generované pozdními poplatky za transakci pronájmu spojenou s daným řádkem v tabulce. Je vypočítán na základě rozdílu mezi datem vrácení a očekávaným datem vrácení pro transakci pronájmu a je vynásobený sazbou pronájmu pro DVD. Pokud DVD ještě nebylo vráceno nebo bylo vráceno včas, bude mít tento sloupec hodnotu 0.
 
 

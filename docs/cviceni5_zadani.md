@@ -10,7 +10,7 @@
 
 - emoční check in
 
-![ververka](..\img\squirrel.png)
+![ververka](../img/squirrel.png)
 
 
 - Prezentace

@@ -1,3 +1,67 @@
+# Cvičení 1 - základní statistiky
+# Statistické cvičení – Analýza dat studentů
+
+Odevzdat na konci cvičení přes moodle 
+
+**Třída:**  
+**Datum:**  
+**Jméno studenta:**  
+
+---
+
+## **Tabulka dat**  
+Níže jsou uvedeny hodnoty výšky (v cm) a věku (v letech) studentů:
+
+| Student | Výška (cm) | Věk (roky) |
+|---------|------------|-----------|
+| 1       | 168        | 16        |
+| 2       | 175        | 17        |
+| 3       | 160        | 16        |
+| 4       | 180        | 18        |
+| 5       | 172        | 17        |
+| 6       | 165        | 16        |
+| 7       | 178        | 17        |
+| 8       | 170        | 16        |
+| 9       | 182        | 18        |
+| 10      | 174        | 17        |
+
+---
+
+## **Úkoly:**
+
+### **1. Minimální a maximální hodnoty**
+- Určete nejnižší a nejvyšší **výšku** studentů.
+- Určete nejnižší a nejvyšší **věk** studentů.
+
+### **2. Průměrná hodnota**
+- Spočítejte **průměrnou výšku** studentů.
+- Spočítejte **průměrný věk** studentů.
+
+### **3. Medián**
+- Určete **medián výšky** studentů.
+- Určete **medián věku** studentů.
+
+### **4. Standardní odchylka**
+- Vypočítejte **směrodatnou odchylku výšky** studentů.
+- Vypočítejte **směrodatnou odchylku věku** studentů.
+
+### **5. Normální rozdělení (Gaussova křivka)**
+- Nakreslete **normální rozdělení** (Gaussovu křivku) pro **výšky** studentů.
+- Nakreslete **normální rozdělení** pro **věk** studentů.
+
+### **6. Standardizovaná distribuce**
+- Přepočítejte **výšky studentů** na standardizované skóre (**z-score**).
+- Přepočítejte **věk studentů** na standardizované skóre (**z-score**).
+
+---
+
+## **Bonusová otázka**
+- Jaké **testy** bychom mohli použít k ověření, zda data odpovídají **normálnímu rozdělení**?
+
+
+
+
+
 # Cvičení 1 - vyhodnocení procesu
 
 ## Situace

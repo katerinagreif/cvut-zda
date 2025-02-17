@@ -29,7 +29,7 @@
 
 3. Jak si daří jednotlivé obchody:
 
-4. Analýza zpodného
+4. Analýza zpozdného
 
 5. Segmentace zákazníků
 

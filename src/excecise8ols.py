@@ -67,7 +67,7 @@ plt.show()
 
 # hledani t statistiky
 
-print(round(scipy.stats.t.sf(23.048, 8),0.000001))
+print(scipy.stats.t.sf(23.048, 8))
 
 # Rezidua vs predikované hodnoty
 plt.scatter(model.fittedvalues, model.resid)
@@ -79,14 +79,24 @@ plt.grid(True)
 plt.show()
 
 # rezidua vs vysvetlující proměnná
-# plt.scatter(df['reklama'], model.resid)
-# plt.axhline(0, color='red', linestyle='--')
-# plt.xlabel('Reklamní rozpočet')
-# plt.ylabel('Rezidua')
-# plt.title('Rezidua vs. proměnná reklama')
-# plt.grid(True)
-# plt.show()
+plt.scatter(df['reklama'], model.resid)
+plt.axhline(0, color='red', linestyle='--')
+plt.xlabel('Reklamní rozpočet')
+plt.ylabel('Rezidua')
+plt.title('Rezidua vs. proměnná reklama')
+plt.grid(True)
+plt.show()
 
 # Ramsey reset
 reset_test = linear_reset(model, power=2, use_f=True)
 print(reset_test)
+
+# Homoscedasticita
+
+plt.scatter(model.fittedvalues, model.resid)
+plt.axhline(0, color='red', linestyle='--')
+plt.xlabel('Predikované hodnoty')
+plt.ylabel('Rezidua')
+plt.title('Rezidua vs. predikce')
+plt.grid(True)
+plt.show()

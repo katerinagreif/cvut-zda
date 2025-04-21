@@ -30,6 +30,13 @@ model = sm.OLS(Y, X).fit()
 # get results
 print(model.summary())
 
+# Správná predikce pro reklama = 110
+novy_vstup = pd.DataFrame([[19.6667 , 110]], columns=['const', 'reklama'])
+novy_vstup = sm.add_constant(novy_vstup)  # přidání interceptu
+print(novy_vstup)
+predikce = model.predict(novy_vstup)
+print(f"Odhadovaný prodej při reklamě 110 je: {predikce.iloc[0]:.2f}")
+
 # get graph
 plt.scatter(df['reklama'], df['prodej'], label='Data')
 plt.plot(df['reklama'], model.predict(X), color='red', label='Regresní přímka')
@@ -69,34 +76,8 @@ plt.show()
 
 print(scipy.stats.t.sf(23.048, 8))
 
-# Rezidua vs predikované hodnoty
-plt.scatter(model.fittedvalues, model.resid)
-plt.axhline(0, color='red', linestyle='--')
-plt.xlabel('Predikované hodnoty')
-plt.ylabel('Rezidua')
-plt.title('Rezidua vs. predikce')
-plt.grid(True)
-plt.show()
-
-# rezidua vs vysvetlující proměnná
-plt.scatter(df['reklama'], model.resid)
-plt.axhline(0, color='red', linestyle='--')
-plt.xlabel('Reklamní rozpočet')
-plt.ylabel('Rezidua')
-plt.title('Rezidua vs. proměnná reklama')
-plt.grid(True)
-plt.show()
 
 # Ramsey reset
 reset_test = linear_reset(model, power=2, use_f=True)
 print(reset_test)
 
-# Homoscedasticita
-
-plt.scatter(model.fittedvalues, model.resid)
-plt.axhline(0, color='red', linestyle='--')
-plt.xlabel('Predikované hodnoty')
-plt.ylabel('Rezidua')
-plt.title('Rezidua vs. predikce')
-plt.grid(True)
-plt.show()

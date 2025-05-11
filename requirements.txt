@@ -1,4 +1,5 @@
 pandas
+openpyxl
 numpy
 statsmodels
 matplotlib
@@ -6,3 +7,4 @@ seaborn
 scipy
 linearmodels
 scikit-learn
+jupyter

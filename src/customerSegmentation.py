@@ -1,4 +1,5 @@
 # Import potřebných knihoven
+import os
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -6,8 +7,17 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import silhouette_score
 
+# sestav path k datum pro python i jupyter
+try:
+    base_dir = os.path.dirname(os.path.abspath(__file__))  # Python script
+except NameError:
+    base_dir = os.getcwd()  # Jupyter
+
+# cesta k datum
+data_path = os.path.abspath(os.path.join(base_dir, '.', 'data', 'data_mall_customers.csv'))
+
 # 1. Načtení datasetu
-data = pd.read_csv('../data/data_mall_customers.csv')
+data = pd.read_csv(data_path)
 
 # 2. Výběr relevantních proměnných
 # Používáme nové názvy sloupců: 'annual_income' a 'spending_score'
@@ -73,3 +83,4 @@ plt.show()
 
 # 9. Shrnutí – průměrné hodnoty v jednotlivých clusterech
 summary = data
+print(summary)

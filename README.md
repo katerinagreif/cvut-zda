@@ -6,6 +6,7 @@ This repository contains materials for teaching data analytics concepts, focusin
 ```
 cvut-zda/
 ├── data/                # Input datasets (e.g., mall customer data)
+├── docs/                # Description of individual excercises
 ├── notebooks/           # Jupyter notebooks for exploratory and visual analysis
 ├── src/                 # Python scripts with reusable and modular logic
 ├── dockerfile           # Dockerfile for environment setup

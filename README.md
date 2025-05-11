@@ -39,11 +39,14 @@ Build docker image from dockerfile as ussual, based on current PyCharm documenta
 You will need to setup docker image configuration to run jupyter notebooks to make use of the exposed port int he dockerfile. For more information see here: https://www.jetbrains.com/help/pycharm/docker-image-run-configuration.html
 
 #### Pycharm docker build config example:
-Use the interpreter options to create a new docker imagelike this:
+Use the interpreter options to create a new docker image using the python interpreter window.
+This can be added using Project settings -> Python interpreter.
+
+Like this:
 
 ![ScreenshotDockerBuild.png](/img/ScreenshotDockerBuild.png)
 
-YOu need to setup docker build environment like this:
+You need to setup docker build environment in Pycharm, like this:
 
 ![ScreenshotDockerBuildDetail.png](/img/ScreenshotDockerBuildDetail.png)
 

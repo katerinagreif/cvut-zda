@@ -1,42 +1,45 @@
 # HODNOCENÍ PŘEDMĚTU A PROJEKTOVÁ KRITÉRIA
 
+[[_TOC_]]
+
 ## Jak se předmět hodnotí
 
--   30 % -- Zkouška
--   70 % -- Projekt
+-   30 % -- Závěrečný test
+-   70 % -- Semestrální projekt
 
 Projekt má dvě části:
 
 1.  Psaný report
-2.  Prezentaci výsledků
+2.  Prezentaci a obhajobu projektu
 
 Obě části jsou povinné.\
-Bez odevzdaného projektu a bez prezentace není možné jít ke zkoušce.
+Bez odevzdaného reportu a absolvování prezentace a obhajoby není možné
+předmět úspěšně dokončit.
 
 ------------------------------------------------------------------------
 
 # Jak přemýšlet o projektu
 
-Projekt má ukázat, že umíte pracovat s daty jako analytik.\
-Nejde jen o to „něco spočítat", ale především o to:
+Cílem projektu není jen aplikovat metodu, ale ukázat, že umíte
+analyticky uvažovat.
 
--   formulovat otázku,
--   zvolit vhodný postup,
--   interpretovat výsledek,
--   přemýšlet o limitech
--   zasadit do kontextu.
+To znamená:
 
-Report a prezentace jsou dvě formy téže věci.\
-Hodnotí se stále to samé - kvalita vašeho uvažování nad daty.
+-   formulovat smysluplnou otázku,
+-   zvolit odpovídající postup,
+-   rozumět použitým metodám,
+-   interpretovat výsledek realisticky,
+-   reflektovat omezení dat i modelu,
+-   zasadit zjištění do širšího kontextu.
 
-Prezentace není jen shrnutí reportu.\
-Je to moment, kdy se ukáže, zda své práci skutečně rozumíte.
+Report a prezentace a obhajoba jsou dvě formy téže práce.\
+Hodnotí se stále to samé - kvalita vašeho přemýšlení nad daty.
 
 ------------------------------------------------------------------------
 
 # Hodnoticí kritéria projektu
 
-Projekt (report i prezentace) je hodnocen podle čtyř kritérií:
+Projekt (report i prezentace a obhajoba) je hodnocen podle čtyř oblastí:
 
 -   **Analýza a syntéza látky (40 %)**
 -   **Argument řešení a výsledků (30 %)**
@@ -47,127 +50,93 @@ Projekt (report i prezentace) je hodnocen podle čtyř kritérií:
 
 ## 1) Analýza a syntéza látky (40 %)
 
-Tady jde o to, jak kvalitně je analýza vystavěná.
+Hodnotí se kvalita analytického návrhu a provedení.
 
-Hodnotí se například:
+Důležité je:
 
 -   jasně formulovaná výzkumná otázka,
--   práce s daty (jejich příprava, úpravy, omezení),
+-   práce s daty (původ, omezení, úpravy),
 -   vhodnost zvolených metod,
--   propojení výsledků s teorií nebo kontextem,
--   zda práce není pouze popisná, ale skutečně analytická.
+-   transparentní uvedení zdrojů dat,
+-   zasazení výsledků do odborného nebo praktického kontextu.
 
-V reportu se to projeví kvalitou textu a struktury.\
-V prezentaci se ověří, že víte, proč jste postupovali právě takto.
+Analýza by neměla být pouze popisná.
+Popisná práce pouze shrnuje, co je v datech vidět (např. průměry, grafy, trendy).
+
+Analytická práce jde o krok dál – snaží se odpovědět na konkrétní otázku, testuje vztahy mezi proměnnými, pracuje s předpoklady metod a interpretuje výsledky v kontextu problému.
+
+Jinými slovy: nestačí ukázat, co data říkají.
+Je potřeba vysvětlit, proč to říkají a co to znamená.
+Očekává se práce s literaturou nebo jiným relevantním zdrojem kontextu.\
+Bez zdrojování dat a bez širšího zasazení výsledků nelze analýzu
+považovat za plnohodnotnou.
 
 ------------------------------------------------------------------------
 
 ## 2) Argument řešení a výsledků (30 %)
 
-Nejde jen o to, co vyšlo, ale jak o tom přemýšlíte.
+Tato oblast hodnotí kvalitu vašeho uvažování a schopnost vystavět smysluplný argument.
+
+Nejde pouze o prezentaci výsledků, ale o to, zda je analytický postup konzistentní, zdůvodněný a intelektuálně obhajitelný.
 
 Hodnotí se:
 
--   logická návaznost kroků,
--   interpretace výsledků (ne jen výpis koeficientů),
+-   logická návaznost postupu,
+-   interpretace výsledků (ne jen prezentace čísel),
 -   práce s předpoklady metod,
--   reflexe limitů,
+-   realistická reflexe limitů,
 -   rozlišování korelace a kauzality.
 
-Jinými slovy: umíte své závěry obhájit a zasadit do kontextu?
+Důležitá je proporcionalita mezi daty, metodou a tvrzením.
+Závěr by měl být tak silný, jak silná jsou data a použitý model – nikoli silnější.
 
-V prezentaci se ukáže, zda dokážete reagovat na otázky a námitky.
+Neoprávněné kauzální interpretace nebo přehnaná generalizace mohou negativně ovlivnit hodnocení.
 
 ------------------------------------------------------------------------
 
 ## 3) Demonstrace znalostí (20 %)
 
-Tady se ukazuje, zda metodám skutečně rozumíte.
+Tato část hodnotí odbornou kompetenci studenta – tedy zda použitým metodám skutečně rozumí a dokáže s nimi pracovat vědomě, nikoli mechanicky.
 
-Hodnotí se:
+Očekává se:
 
--   porozumění použitým metodám,
--   schopnost zdůvodnit jejich volbu,
--   znalost předpokladů modelu,
--   správná interpretace statistických ukazatelů.
+-   schopnost zdůvodnit volbu metod ve vztahu k výzkumné otázce,
+-   porozumění jejich teoretickým východiskům a předpokladům,
+-   reflexe toho, zda jsou tyto předpoklady v daných datech naplněny,
+-   korektní interpretace statistických ukazatelů a modelových výstupů.
 
-Část toho je vidět z reportu.\
-Klíčová část se ale projeví během prezentace.
+Použití metody bez porozumění jejím principům se obvykle projeví při prezentaci a obhajobě.
 
-Pokud během obhajoby nebude zřejmé, že rozumíte vlastní analýze,\
-může to negativně ovlivnit hodnocení zejména v této části.
+Pokud je zvolena metodika nad rámec probíraných témat, je nutné vysvětlit její relevanci, předpoklady a přínos pro řešený problém.
 
 ------------------------------------------------------------------------
 
 ## 4) Prezentace výsledků (10 %)
 
-Zde se hodnotí forma:
+Tato část hodnotí kvalitu odborné komunikace a schopnost prezentovat analytické závěry srozumitelně a věcně.
 
--   struktura,
--   srozumitelnost,
--   přehlednost grafů,
--   práce s časem,
--   schopnost odpovídat na otázky.
+Posuzuje se zejména:
 
-Prezentace má být stručná, věcná a jasná.
+-   struktura a přehlednost prezentace,
+-   práce s vizualizací (volba vhodných grafů, čitelnost, interpretovatelnost),
+-   srozumitelnost a věcná přesnost výkladu,
+-   schopnost reagovat na otázky a obhájit závěry v diskusi.
 
-------------------------------------------------------------------------
-
-# Dopad obhajoby na výslednou známku
-
-Prezentace není formalita. Slouží k ověření toho, že jste práci opravdu
-vytvořili a rozumíte jí.
-
-Pokud během prezentace:
-
--   nedokážete vysvětlit klíčové kroky analýzy,
--   nerozumíte použitým metodám,
--   nejste schopni obhájit své závěry,
--   zaměňujete základní statistické pojmy,
-
-může to ovlivnit bodové hodnocení zejména v části\
-**„Argument řešení a výsledků"** a **„Demonstrace znalostí"**.
-
-V krajním případě, kdy student není schopen projekt metodologicky
-obhájit,\
-může být výsledné hodnocení výrazně sníženo (až o 50 %),\
-nebo nemusí být projekt uznán jako splněný.
+Cílem není vytvořit vizuálně atraktivní prezentaci, ale jasně a přesně sdělit podstatu analýzy.
 
 ------------------------------------------------------------------------
 
-# Co odevzdáváte
+# Prezentace a obhajoba projektu
 
-## Před prezentací
+Prezentace je nedílnou součástí hodnocení projektu.
+Slouží nejen k představení výsledků, ale k ověření porozumění celému analytickému postupu.
 
--   Datový soubor (nebo jasný odkaz na zdroj dat)
--   Kompletní analytický kód (Power BI / Excel / Python apod.)
--   Kód musí být plně reprodukovatelný (spustitelný od začátku do konce
-    bez ručních zásahů)
--   Pokud používáte Python, přiložte soubor `requirements.txt`
+Pokud během prezentace nebude zřejmé, že student rozumí klíčovým částem vlastní analýzy, může to ovlivnit hodnocení zejména v kritériích:
 
-------------------------------------------------------------------------
+-   Argument řešení a výsledků
+-   Demonstrace znalostí
 
-## Report (max. 2 strany bez tabulek a analýz)
-
-Report má mít podobu krátkého akademického textu.
-
-### Doporučená struktura:
-
--   Úvod do problematiky (proč je téma relevantní)
--   Metodika (data, zvolené metody, jejich zdůvodnění)
--   Výsledky (hlavní zjištění)
--   Diskuze (interpretace, limity, širší kontext)
-
-### Diskuze může být strukturována podle principu STARR:
-
--   Situation -- kontext problému
--   Task -- výzkumná otázka nebo hypotéza
--   Action -- postup analýzy
--   Result -- hlavní zjištění
--   Review -- zhodnocení a limity
-
-STARR slouží jako pomůcka pro jasnou argumentaci,
-nenahrazuje vědeckou strukturu textu.
+V krajní situaci, kdy student není schopen projekt metodologicky obhájit, může být výsledné hodnocení výrazně sníženo (až o 50 %) nebo nemusí být projekt uznán jako splněný.
 
 ------------------------------------------------------------------------
 
@@ -175,12 +144,44 @@ nenahrazuje vědeckou strukturu textu.
 
 Projekt by měl ukázat, že umíte:
 
-1.  Formulovat otázku
-2.  Najít a připravit data
+1.  Formulovat výzkumnou otázku
+2.  Najít a připravit relevantní data
 3.  Provést deskriptivní analýzu
-4.  Aplikovat statistickou metodu
+4.  Zvolit a aplikovat vhodnou metodu
 5.  Interpretovat výsledky v kontextu
-6.  Kriticky zhodnotit vlastní práci
+6.  Kriticky zhodnotit vlastní postup
+
+------------------------------------------------------------------------
+
+# Podoba Reportu (max. 2 strany bez tabulek a analýz)
+
+Report má mít podobu krátkého odborného textu.
+Nejde o výpis kroků ani o technickou dokumentaci, ale o analytický argument vystavěný v logické struktuře.
+
+Doporučená struktura:
+
+-   Úvod (vymezení problému a relevance tématu)
+-   Metodika (data, volba metod, jejich zdůvodnění)
+-   Výsledky (hlavní zjištění)
+-   Diskuze (interpretace, limity, širší kontext)
+
+Očekává se, že text bude věcný, strukturovaný a argumentačně konzistentní.
+Rozsah je omezený záměrně – cílem je schopnost formulovat podstatu problému jasně a bez nadbytečných částí.
+
+------------------------------------------------------------------------
+
+## STARR jako nástroj argumentace
+
+Pro strukturování diskuze můžete využít princip STARR:
+
+-   **Situation** -- kontext problému
+-   **Task** -- výzkumná otázka nebo hypotéza
+-   **Action** -- analytický postup
+-   **Result** -- hlavní zjištění
+-   **Review** -- zhodnocení, limity, interpretace
+
+STARR slouží jako pomůcka pro jasnou argumentaci.
+Nenahrazuje akademickou strukturu textu.
 
 ------------------------------------------------------------------------
 
@@ -188,27 +189,10 @@ Projekt by měl ukázat, že umíte:
 
 Projekt má být výsledkem vaší samostatné práce.
 
-Použití AI jako pomocného nástroje (např. jazyková korektura, pomoc se
-syntaxí) je možné.\
-Ale platí jednoduché pravidlo:
+Použití AI jako podpůrného nástroje je možné.\
+Zásadní však je, že své práci musíte plně rozumět.
 
-Musíte své práci rozumět.
-
-Prezentace je moment, kdy se to ukáže.
+Prezentace a obhajoba jsou momentem, kdy se to ověřuje.
 
 Pokud student není schopen vysvětlit podstatné části vlastní analýzy,\
 může to mít dopad na hodnocení a v krajním případě i na uznání projektu.
-
-------------------------------------------------------------------------
-
-# Jak získat dobrou známku
-
-Dobrá známka nevzniká jen z „hezkého grafu".
-
-Rozhoduje:
-
--   proč jste zvolili danou metodu,
--   jak interpretujete výsledek,
--   zda reflektujete limity,
--   zda umíte zasadit výsledek do kontextu,
--   zda přemýšlíte kriticky.

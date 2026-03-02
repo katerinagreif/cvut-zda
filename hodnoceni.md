@@ -2,12 +2,12 @@
 
 ## Jak se předmět hodnotí
 
--   30 % -- Zkouška\
+-   30 % -- Zkouška
 -   70 % -- Projekt
 
 Projekt má dvě části:
 
-1.  Psaný report\
+1.  Psaný report
 2.  Prezentaci výsledků
 
 Obě části jsou povinné.\

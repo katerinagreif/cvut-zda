@@ -1,123 +1,214 @@
 # HODNOCENÍ PŘEDMĚTU A PROJEKTOVÁ KRITÉRIA
 
-Struktura hodnocení předmětu 
-30 % - Zkouška 
-70 % - Projekt
+## Jak se předmět hodnotí
 
-Projekt se skládá ze dvou stejně hodnocených částí: 
-1. Psaný report 
-2. Prezentace výsledků a zjištění
+-   30 % -- Zkouška\
+-   70 % -- Projekt
 
-Obě části jsou povinné pro získání zápočtu. Pokud neodevzdáte projekt
-nebo neabsolvujete prezentaci, nemůžete jít ke zkoušce.
+Projekt má dvě části:
 
-Prezentace probíhají v posledním týdnu semestru.
+1.  Psaný report\
+2.  Prezentaci výsledků
 
-------------------------------------------------------------------------
-
-# CO ODEVZDÁVÁTE
-
-Před prezentací: 
-- Data 
-- Kódy (Power BI / Excel / Python apod.) 
-- Kód
-musí být plně reprodukovatelný (spustitelný od začátku do konce) - Pokud
-používáte Python, přiložte i requirements
-
-Report (max. 2 strany bez tabulek a analýz) Doporučená struktura STARR:
-- Situation - kontext problému 
-- Task - výzkumná otázka Action - postup
-analýzy 
-- Result - hlavní zjištění Review - zhodnocení, limity,
-interpretace
-
-Prezentace (5 minut + 3 minuty otázky) 
-- Zaměřte se na závěry a cestu k
-nim 
-- Klíčová je schopnost obhájit metodiku a diskutovat výsledky 
-- Kontext analýzy je zásadní - dávají data a závěry smysl podle teorie?
+Obě části jsou povinné.\
+Bez odevzdaného projektu a bez prezentace není možné jít ke zkoušce.
 
 ------------------------------------------------------------------------
 
-# HODNOTICÍ KRITÉRIA PROJEKTU
+# Jak přemýšlet o projektu
 
-Analýza a syntéza látky - 40 % Argument řešení a výsledků - 30 %
-Demonstrace znalostí - 20 % Prezentace výsledků - 10 %
+Projekt má ukázat, že umíte pracovat s daty jako analytik.\
+Nejde jen o to „něco spočítat", ale především o to:
 
-------------------------------------------------------------------------
+-   formulovat otázku,
+-   zvolit vhodný postup,
+-   interpretovat výsledek,
+-   přemýšlet o limitech
+-   zasadit do kontextu.
 
-# CO KRITÉRIA ZNAMENAJÍ
+Report a prezentace jsou dvě formy téže věci.\
+Hodnotí se stále to samé - kvalita vašeho uvažování nad daty.
 
-## 1)  Analýza a syntéza látky (40 %)
-
--   Jasně formulovaná výzkumná otázka
--   Správná příprava dat
--   Vhodná volba metod (např. regresní analýza)
--   Propojení výsledků s teorií
--   Přidaná analytická hodnota (ne jen popis)
-
-## 2)  Argument řešení a výsledků (30 %)
-
--   Logická návaznost kroků
--   Interpretace výsledků (ne jen výpis koeficientů)
--   Diskuze předpokladů metod
--   Reflexe limitů analýzy
--   Nepřehánět kauzalitu - korelace ≠ příčina
-
-## 3)  Demonstrace znalostí (20 %) Student musí prokázat:
-
--   Porozumění použitým metodám
--   Teoretické znalosti související s analýzou
--   Schopnost vysvětlit, proč byla metoda zvolena
--   Správnou interpretaci statistických ukazatelů
-
-## 4)  Prezentace výsledků (10 %)
-
--   Struktura
--   Srozumitelnost
--   Přehlednost grafů
--   Jazyková úroveň
--   Schopnost odpovídat na otázky
+Prezentace není jen shrnutí reportu.\
+Je to moment, kdy se ukáže, zda své práci skutečně rozumíte.
 
 ------------------------------------------------------------------------
 
-# VĚDECKÝ POSTUP
+# Hodnoticí kritéria projektu
 
-Projekt má ukázat, že umíte: 
-1. Formulovat otázku 
-2. Najít a připravit
-data 
-3. Provést deskriptivní analýzu 
-4. Aplikovat statistickou metodu 
-5. Interpretovat výsledky v kontextu 
-6. Kriticky zhodnotit vlastní práci
+Projekt (report i prezentace) je hodnocen podle čtyř kritérií:
+
+-   **Analýza a syntéza látky (40 %)**
+-   **Argument řešení a výsledků (30 %)**
+-   **Demonstrace znalostí (20 %)**
+-   **Prezentace výsledků (10 %)**
 
 ------------------------------------------------------------------------
 
-# POUŽITÍ AI
+## 1) Analýza a syntéza látky (40 %)
 
-Součástí hodnocení je také posouzení pravděpodobnosti využití AI (LLM).
+Tady jde o to, jak kvalitně je analýza vystavěná.
 
-Odevzdaný report bude analyzován z hlediska: 
-- jazykové homogenity 
-- stylové konzistence 
-- struktury argumentace 
-- typických znaků
-generovaného textu 
-- nesouladu mezi kvalitou reportu a schopností obhajoby při prezentaci
+Hodnotí se například:
 
-Použití LLM jako podpůrného nástroje (např. jazyková korektura) je možné,
-ale student musí plně rozumět celé analýze i textu a být schopen vše
-obhájit.
+-   jasně formulovaná výzkumná otázka,
+-   práce s daty (jejich příprava, úpravy, omezení),
+-   vhodnost zvolených metod,
+-   propojení výsledků s teorií nebo kontextem,
+-   zda práce není pouze popisná, ale skutečně analytická.
 
-Neschopnost vysvětlit vlastní práci může negativně ovlivnit hodnocení.
+V reportu se to projeví kvalitou textu a struktury.\
+V prezentaci se ověří, že víte, proč jste postupovali právě takto.
 
 ------------------------------------------------------------------------
 
-#  JAK ZÍSKAT DOBROU ZNÁMKU
+## 2) Argument řešení a výsledků (30 %)
 
--   Nejen „co vyšlo", ale proč to vyšlo
--   Diskuze nad správností modelu
--   Reflexe předpokladů
--   Kontextualizace výsledků
--   Kritické myšlení
+Nejde jen o to, co vyšlo, ale jak o tom přemýšlíte.
+
+Hodnotí se:
+
+-   logická návaznost kroků,
+-   interpretace výsledků (ne jen výpis koeficientů),
+-   práce s předpoklady metod,
+-   reflexe limitů,
+-   rozlišování korelace a kauzality.
+
+Jinými slovy: umíte své závěry obhájit a zasadit do kontextu?
+
+V prezentaci se ukáže, zda dokážete reagovat na otázky a námitky.
+
+------------------------------------------------------------------------
+
+## 3) Demonstrace znalostí (20 %)
+
+Tady se ukazuje, zda metodám skutečně rozumíte.
+
+Hodnotí se:
+
+-   porozumění použitým metodám,
+-   schopnost zdůvodnit jejich volbu,
+-   znalost předpokladů modelu,
+-   správná interpretace statistických ukazatelů.
+
+Část toho je vidět z reportu.\
+Klíčová část se ale projeví během prezentace.
+
+Pokud během obhajoby nebude zřejmé, že rozumíte vlastní analýze,\
+může to negativně ovlivnit hodnocení zejména v této části.
+
+------------------------------------------------------------------------
+
+## 4) Prezentace výsledků (10 %)
+
+Zde se hodnotí forma:
+
+-   struktura,
+-   srozumitelnost,
+-   přehlednost grafů,
+-   práce s časem,
+-   schopnost odpovídat na otázky.
+
+Prezentace má být stručná, věcná a jasná.
+
+------------------------------------------------------------------------
+
+# Dopad obhajoby na výslednou známku
+
+Prezentace není formalita. Slouží k ověření toho, že jste práci opravdu
+vytvořili a rozumíte jí.
+
+Pokud během prezentace:
+
+-   nedokážete vysvětlit klíčové kroky analýzy,
+-   nerozumíte použitým metodám,
+-   nejste schopni obhájit své závěry,
+-   zaměňujete základní statistické pojmy,
+
+může to ovlivnit bodové hodnocení zejména v části\
+**„Argument řešení a výsledků"** a **„Demonstrace znalostí"**.
+
+V krajním případě, kdy student není schopen projekt metodologicky
+obhájit,\
+může být výsledné hodnocení výrazně sníženo (až o 50 %),\
+nebo nemusí být projekt uznán jako splněný.
+
+------------------------------------------------------------------------
+
+# Co odevzdáváte
+
+## Před prezentací
+
+-   Datový soubor (nebo jasný odkaz na zdroj dat)
+-   Kompletní analytický kód (Power BI / Excel / Python apod.)
+-   Kód musí být plně reprodukovatelný (spustitelný od začátku do konce
+    bez ručních zásahů)
+-   Pokud používáte Python, přiložte soubor `requirements.txt`
+
+------------------------------------------------------------------------
+
+## Report (max. 2 strany bez tabulek a analýz)
+
+Report má mít podobu krátkého akademického textu.
+
+### Doporučená struktura:
+
+-   Úvod do problematiky (proč je téma relevantní)
+-   Metodika (data, zvolené metody, jejich zdůvodnění)
+-   Výsledky (hlavní zjištění)
+-   Diskuze (interpretace, limity, širší kontext)
+
+### Diskuze může být strukturována podle principu STARR:
+
+-   Situation -- kontext problému
+-   Task -- výzkumná otázka nebo hypotéza
+-   Action -- postup analýzy
+-   Result -- hlavní zjištění
+-   Review -- zhodnocení a limity
+
+STARR slouží jako pomůcka pro jasnou argumentaci,
+nenahrazuje vědeckou strukturu textu.
+
+------------------------------------------------------------------------
+
+# Vědecký postup
+
+Projekt by měl ukázat, že umíte:
+
+1.  Formulovat otázku
+2.  Najít a připravit data
+3.  Provést deskriptivní analýzu
+4.  Aplikovat statistickou metodu
+5.  Interpretovat výsledky v kontextu
+6.  Kriticky zhodnotit vlastní práci
+
+------------------------------------------------------------------------
+
+# Akademická integrita a AI
+
+Projekt má být výsledkem vaší samostatné práce.
+
+Použití AI jako pomocného nástroje (např. jazyková korektura, pomoc se
+syntaxí) je možné.\
+Ale platí jednoduché pravidlo:
+
+Musíte své práci rozumět.
+
+Prezentace je moment, kdy se to ukáže.
+
+Pokud student není schopen vysvětlit podstatné části vlastní analýzy,\
+může to mít dopad na hodnocení a v krajním případě i na uznání projektu.
+
+------------------------------------------------------------------------
+
+# Jak získat dobrou známku
+
+Dobrá známka nevzniká jen z „hezkého grafu".
+
+Rozhoduje:
+
+-   proč jste zvolili danou metodu,
+-   jak interpretujete výsledek,
+-   zda reflektujete limity,
+-   zda umíte zasadit výsledek do kontextu,
+-   zda přemýšlíte kriticky.
